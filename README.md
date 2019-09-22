@@ -8,7 +8,7 @@ https://github.com/nicoleus/ijensinaga
 # ./tools
 # OR
 # git clone https://github.com/nicoleus/ijensinaga
-# cd Mrcakil
+# cd ijensinaga
 # chmod 777 toolcs2
 # ./toolcs2
 
