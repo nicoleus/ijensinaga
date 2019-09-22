@@ -10,8 +10,8 @@ https://github.com/nicoleus/ijensinaga
 # git clone https://github.com/nicoleus/ijensinaga
 # cd Mrcakil
 # chmod 777 toolcs2
-# ./tools2
+# ./toolcs2
 
-# CODED By: ./Mr.Cakil
-# Thanks to : 4wsec - Mr.TenWap - all member official 99syndicate - All member official anonymous cyber team
-# Contact Here : mrcakil@programmer.net
+# CODED By: ./Mr.Wreck
+# Thanks to : 4wsec - IJEN MIRANDA SINAGA - all member official 99syndicate - All member official Batak Cyber
+# Contact Here : adysitorusa7@gmail.com
