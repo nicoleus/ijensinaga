@@ -4,7 +4,7 @@ https://github.com/nicoleus/ijensinaga
 # how to install
 # git clone https://github.com/nicoleus/ijensinaga
 # cd ijensinaga
-# chmod 777 tools
+# chmod 777 toolcs
 # ./tools
 # OR
 # git clone https://github.com/nicoleus/ijensinaga
